@@ -33,6 +33,7 @@ The videos below will walk you though the concepts and the design of the device.
 ## Video & CAD
 
 [Design Walkthrough Video](https://youtu.be/qqwn0QqbPtA)
+<br/>
 [Fusion 360 CAD](https://a360.co/31sDFlR)
 <br/><br/>
 
@@ -54,9 +55,9 @@ If you'd like to contribute open a pull request, create an issue, or use the [co
 ## Resources
 
 [Parts & Calculations Spreadsheet](https://docs.google.com/spreadsheets/d/1HvDmeITqX1PCWXXTnC2gLgxtsWc7ckGsJaDt23uZBYo/)
-<br/><br/>
-
+<br/>
 [ABS Pipe Fitting Specs](https://www.charlottepipe.com/Documents/DimensionalCatalogs/Plastic_Pipe_Fittings_DC-DWV(609).pdf)
+<br/>
 [PVC Pipe Fitting Specs](https://www.charlottepipe.com/Documents/DimensionalCatalogs/Pressure_Pipe_Fittings.pdf)
 <br/><br/>
 
