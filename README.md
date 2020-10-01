@@ -39,17 +39,17 @@ The videos below will walk you though the concepts and the design of the device.
 
 ## If you have feedback
 
-If you have design feedback, if you think I missed a nuance of physiology or ventilation or physics or engineering -- I want to hear from you. Please [contact me](https://forms.gle/BKPWRyAayMz9HJRt8). We can make this better together.
+If you have design feedback, if you think I missed a nuance of physiology or ventilation or physics or engineering -- I want to hear from you. Please [contact me](https://forms.gle/YNK7ddcn5nrHbiCMA). We can make this better together.
 <br/><br/>
 
 ## If I can help you
 
-If you want to build one of these or 100 or 1000 or a country full, I want to help. Please [contact me](https://forms.gle/BKPWRyAayMz9HJRt8).
+If you want to build one of these or 100 or 1000 or a country full, I want to help. Please [contact me](https://forms.gle/YNK7ddcn5nrHbiCMA).
 <br/><br/>
 
 ## If you can help me
 
-If you'd like to contribute open a pull request, create an issue, or use the [contact form](https://forms.gle/BKPWRyAayMz9HJRt8).
+If you'd like to contribute open a pull request, create an issue, or use the [contact form](https://forms.gle/YNK7ddcn5nrHbiCMA).
 <br/><br/>
 
 ## Resources
